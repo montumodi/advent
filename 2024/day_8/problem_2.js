@@ -69,9 +69,6 @@ anteena_array.forEach((value, key) => {
             console.log("Matrix size:", matrix_size_rows, matrix_size_columns);
             antinodes_locations = antinodes_locations.concat(upwards);
             antinodes_locations = antinodes_locations.concat(downwards);
-            // if (vector.x >= 0 && vector.y >= 0 && vector.x < matrix_size_rows && vector.y < matrix_size_columns) {
-                
-            // }
 
         }
     }
